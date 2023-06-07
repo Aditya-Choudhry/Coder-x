@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(85, 88, 88);
+}
+ul{
+    list-style: none;
+}
+ul li{
+    
+}
+button {
+}
+.navbar-nav li.nav-item:hover {
+    background-color: #f8f9fa; /* Add desired background color on hover */
+  }
+  
+  .btn-group {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .btn-group button {
+    margin: 35px;
+    padding: 30px;
+  }
